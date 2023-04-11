@@ -30,7 +30,7 @@ TODO APP is a simple application for managing a todo list. Users can add, edit, 
 
 ## Contributing
 
-Contributions are always welcome! If you'd like to contribute to [Todo App Name], please follow these steps:
+Contributions are always welcome! If you'd like to contribute to TODO APP, please follow these steps:
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b new-feature`)
