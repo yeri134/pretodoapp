@@ -16,7 +16,6 @@ TODO APP is a simple application for managing a todo list. Users can add, edit, 
 - CSS
 - Java
 
-
 ## Installation
 
 1. Clone the repository
